@@ -1,0 +1,13 @@
+- Impacket Exec Commands Cheat Sheet
+https://drive.google.com/file/d/1pYXzPgtKExNlZlJgflWYpJYVT0gwGfxO/view
+- Impacket Impediments - Finding Evil in Event Logs
+https://www.youtube.com/watch?v=UMogme3rDRA
+
+Evading Sysmon DNS Monitoring
+https://blog.xpnsec.com/evading-sysmon-dns-monitoring/
+
+Sysmon Image File Name Evasion
+https://undev.ninja/sysmon-image-file-name-evasion/
+
+Unloading Sysmon Driver
+https://www.ired.team/offensive-security/defense-evasion/unloading-sysmon-driver

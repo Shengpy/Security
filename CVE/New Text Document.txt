@@ -1,0 +1,5 @@
+--------------------------------------------Winrar
+https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC
+https://github.com/b1tg/CVE-2023-38831-winrar-exploit
+---------------------------------------------cpanel
+CVE-2023-29489   XSS
